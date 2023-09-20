@@ -1,5 +1,12 @@
 # InterviewEng2023
 
+# Rumango Softwares
+
+1. what is immutable cass in java?
+2. use a stream API to find highest salaried employee?
+3. Functional Interface?
+4. 
+
 # Zycus:-
 
 1. What do you do if there is any outofmemory error happens?
@@ -46,8 +53,10 @@
 * System diagram of current app.
 * How authentication and authorisation works?
 
-# HCL
+# Troposheresolutions
 
+# HCL
+# Boeing
 
  
 
