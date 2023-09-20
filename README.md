@@ -5,7 +5,10 @@
 1. what is immutable cass in java?
 2. use a stream API to find highest salaried employee?
 3. Functional Interface?
-4. 
+4. what is dead lock and how to avoid it?
+5. Executors framework?
+6. what is singleton design pattern and how to break it?
+7. 
 
 # Zycus:-
 
@@ -52,10 +55,23 @@
 * What is qualifier in spring?
 * System diagram of current app.
 * How authentication and authorisation works?
+* what is second-level cache in hibernate?
 
 # Troposheresolutions
 
 # HCL
+
+1. how to not use caching in spring JPA?
+2. diff Controller vs RestController?
+3. what is Qualifier annotation?
+4. what is deep and shallow copy?
+5. how to decide whether react component has to render or not?
+6. how to get previous state of react component?
+7. best practises to improve react performance?
+8. what is useMemo vs useCallback?
+9. what is multithread in js? webworkers vs service workers?
+10. setTimer function?
+
 # Boeing
 
  
@@ -64,14 +80,16 @@
 
 # Random:-
 
-* Rest vs Restfull service.
-* Thread lifecycle states?
-* How to connect 2 different database in spring?
-* What is profiler in spring ?
-* When to use comparator vs comparable?
-* Print even and odd numbers from 2 threads? One should print even other should print odd alternatively till 10.
-* Serialization/Externalization? What is the significant of version id?
-* What is String intern?
+1. Rest vs Restfull service.
+2. Thread lifecycle states?
+3. How to connect 2 different database in spring?
+4. What is profiler in spring ?
+5. When to use comparator vs comparable?
+6. Print even and odd numbers from 2 threads? One should print even other should print odd alternatively till 10.
+7. Serialization/Externalization? What is the significant of version id?
+8. What is String intern?
+9. diff countdown latch vs cyclic barrier vs phaser?
+10. fatory design pattern vs abstract factory pattern?
 
 
 
