@@ -103,5 +103,8 @@ Disable unwanted autoconfiguration.
 Profile specific configuration.
 Limit component scanning using @scanBasePackages annotation.
 
+STAR Questions:-
+1. Tell me about when you missed a deadline?
+2. Tell me about a time you have disagreed with a  senior member of staff?
 
 
