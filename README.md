@@ -59,6 +59,18 @@
 
 # Troposheresolutions
 
+1. What is singleton patterns. What is the use of it?
+2. Restcontroller vs controller
+3. What is useState and useEffect.
+4. What is equivalent of componentdidunmount in functional component.
+5. What is interface?
+6. Private methods in interface?
+7. Diff abstraction class and interface?
+8. Rest api get vs post?
+9. Limitation of get?
+10. Query param character limit?
+
+
 # HCL
 
 1. how to not use caching in spring JPA?
@@ -74,6 +86,13 @@
 
 # Boeing
 
+1. write a code for a class which extends interface?
+2. create a code for factory design pattern?
+3. diff abstract class vs interface?
+4. can we have a private methods in interface?
+5. write a code for incrementor/decrementor using ReactJS?
+6. explain about your project structure?
+7. 
  
 
 
