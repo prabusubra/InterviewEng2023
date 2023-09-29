@@ -94,6 +94,22 @@
 6. explain about your project structure?
 7. 
  
+# RoyalCyber
+
+1. Diff class component vs functional components in reactjs.
+2. What webAPI vs callstack vs eventloop
+3. Lifecyle methods
+4. useEffect and useState hooks
+5. How redux works?
+6. Given a list of names:
+   List<String> list = Arrays.asList( "Alice", "Bob", "Charlie", "David", "Emily", "Frank")
+   write a Java 8 program to:
+     Filter out names with more than 4 letters.
+     Transform the remaining names to uppercase.
+     Print each transformed name.
+       Ans:- list.stream().filter(data -> data.length > 4).map(data -> data.toUpperCase(Locale.US)).forEach(System.out::println);
+   
+8. Given an array nums containing n distinct numbers in the range [0, n], return the only number in the range that is missing from the array
 
 
 
