@@ -111,7 +111,19 @@
    
 8. Given an array nums containing n distinct numbers in the range [0, n], return the only number in the range that is missing from the array
 
+# goDigit
 
+1. write a program to find next highest number for given number in an array ?
+  int[] arr = {55, 66, 77, 78, 65, 33}; for input 33, output is 55  
+2. write a program to find an element using binary search ?
+3. design patterns used in micro services?
+4. how to handle authentication and authorization in microservice?
+5. how to handle logs in microservice?
+6. how to handle transaction in microservice?
+7. annotation used in springboot?
+8. restcontroller vs controller?
+9. in springboot, how to provide ouput in both json and xml format?
+10. what is deadlock and how to handle it?
 
 # Random:-
 
@@ -125,6 +137,9 @@
 8. What is String intern?
 9. diff countdown latch vs cyclic barrier vs phaser?
 10. fatory design pattern vs abstract factory pattern?
+11. can we have a private field in interface?
+    No, All the fields are public, static and final in interface. 
+12. 
 
 
 
