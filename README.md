@@ -138,8 +138,11 @@
 9. diff countdown latch vs cyclic barrier vs phaser?
 10. fatory design pattern vs abstract factory pattern?
 11. can we have a private field in interface?
-    No, All the fields are public, static and final in interface. 
-12. 
+    No, All the fields are public, static and final in interface.
+    Fields in interface are accessible by interface or class not using object.
+    if a class implements 2 interfaces which are having same field name will have issue only if we access and use the field.
+    if a class implements 2 interfaces which are having same method name will have issue, it will be solved by overriding the method in subclass.
+13. 
 
 
 
