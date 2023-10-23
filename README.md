@@ -125,6 +125,21 @@
 9. in springboot, how to provide ouput in both json and xml format?
 10. what is deadlock and how to handle it?
 
+# Sony
+1. what is lookup annotation?
+2. what is dependency injection?
+3. how to create 2 different session factory?
+4. what is cyclic barrier?
+5. what is map and reducer?
+6. what is flatmap?
+7. what is sharding?
+8. sql vs nosql
+9. saga pattern?
+10. 2phase commit?
+11. count a character question?
+12. CQRS?
+13. 
+
 # Random:-
 
 1. Rest vs Restfull service.
