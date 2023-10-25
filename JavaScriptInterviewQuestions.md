@@ -6,4 +6,4 @@
 1. PureRenderMixin?
 2. what is render props pattern?
 3. what is controlled component?
-4. 
+4. what is pure functiom?
